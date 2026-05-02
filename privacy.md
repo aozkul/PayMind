@@ -1,14 +1,14 @@
-# Privacy Policy for PayMind
+# Privacy Policy for PayGuard
 
-PayMind is a local-first app for tracking subscriptions, purchases, warranties, return deadlines, and related reminders.
+PayGuard is a local-first app for tracking subscriptions, purchases, warranties, return deadlines, and related reminders.
 
 ## Summary
 
-PayMind is designed to keep your information on your device whenever possible. At this time, PayMind does not require account creation or sign-in to use the app.
+PayGuard is designed to keep your information on your device whenever possible. At this time, PayGuard does not require account creation or sign-in to use the app.
 
 ## Information You Provide
 
-Depending on how you use PayMind, you may choose to store the following information inside the app on your device:
+Depending on how you use PayGuard, you may choose to store the following information inside the app on your device:
 
 - Subscription records
 - Purchase and warranty records
@@ -27,17 +27,17 @@ Your information is used only to provide app functionality, such as:
 
 ## On-Device Processing
 
-PayMind may analyze screenshots, receipts, scans, and PDFs on your device to help prefill records. This processing is intended to happen on-device.
+PayGuard may analyze screenshots, receipts, scans, and PDFs on your device to help prefill records. This processing is intended to happen on-device.
 
 ## Notifications
 
-If you enable notifications, PayMind stores reminder-related information locally on your device so it can notify you about renewals, return windows, and warranty deadlines.
+If you enable notifications, PayGuard stores reminder-related information locally on your device so it can notify you about renewals, return windows, and warranty deadlines.
 
 ## Data Sharing
 
-PayMind does not sell your personal data.
+PayGuard does not sell your personal data.
 
-PayMind does not share your data with third parties for advertising or marketing.
+PayGuard does not share your data with third parties for advertising or marketing.
 
 If this changes in a future release, this policy will be updated before that change takes effect.
 
@@ -53,7 +53,7 @@ You can also use the “Delete all local data” option in the app settings to r
 
 ## Children’s Privacy
 
-PayMind is not directed to children under 13.
+PayGuard is not directed to children under 13.
 
 ## Changes to This Policy
 
