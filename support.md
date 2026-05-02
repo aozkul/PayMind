@@ -1,6 +1,6 @@
-# PayMind Support
+# PayGuard Support
 
-If you need help with PayMind, contact:
+If you need help with PayGuard, contact:
 
 Email: ali.ozkul@icloud.com
 
@@ -10,14 +10,14 @@ To help resolve your issue faster, please include:
 
 - your device model
 - iOS version
-- PayMind app version
+- PayGuard app version
 - a short description of the issue
 - steps to reproduce it, if possible
 
 ## Common Topics
 
 ### Restore Purchases
-If you already bought Lifetime Pro and it is not unlocked, open PayMind and use:
+If you already bought Lifetime Pro and it is not unlocked, open PayGuard and use:
 
 Settings > Restore Purchases
 
@@ -33,7 +33,7 @@ If widgets do not appear or update correctly:
 If reminders are not arriving:
 
 - check notification permission in iPhone Settings
-- make sure notifications are enabled for PayMind
+- make sure notifications are enabled for PayGuard
 - confirm the record has reminders enabled inside the app
 
 ### Attachments and Imports
@@ -45,7 +45,7 @@ If a receipt, PDF, photo, or scan does not import correctly:
 
 ## Privacy
 
-PayMind is designed as a local-first app. For privacy details, see:
+PayGuard is designed as a local-first app. For privacy details, see:
 
 [Privacy Policy](./privacy)
 
