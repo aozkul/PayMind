@@ -1,6 +1,6 @@
-# PayMind
+# PayGuard
 
-PayMind is a local-first app for tracking subscriptions, purchases, warranties, return deadlines, reminders, and premium widgets.
+PayGuard is a local-first app for tracking subscriptions, purchases, warranties, return deadlines, reminders, and premium widgets.
 
 ## Links
 
